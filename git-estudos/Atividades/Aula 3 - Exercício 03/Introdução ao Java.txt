@@ -1,0 +1,52 @@
+# MJV School - Java Imersion
+
+#### Aluno: Arnaldo Menezes
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Exercício 03
+
+3.1 - Pesquise e faça um resumo sobre a plataforma do Java:
+
+Java é uma linguagem de alto nível. Ela roda em mais de 50 milhões de computadores pessoais e em bilhões de dispositivos em todo o mundo.
+
+A linguagem pode ser caracterizada pelas seguintes palavras chave:
+
+* Simples
+* Orientado a objeto
+* Distribuído
+* Multithreaded
+* Dinâmico
+* Arquitetura neutra
+* Portável
+* Alto desempenho
+* Robusto
+* Seguro
+
+Os dois principais componentes da plataforma Java são: Interface de Programação de Aplicativos Java (API) e a Maquina Virtual Java (JVM), que interpreta o código Java em linguagem de máquina.
+
+A mesma aplicação Java, pode rodar em diversas plataformas sem que seja necessária uma nova compilação ou alterações no programa fonte, bastando que se use a JVM adequada ao sistema operacional destino.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+3.2 - Pesquise e faça um resumo sobre a evolução da linguagem Java:
+
+Na linguagem de programação Java, todo o código fonte é escrito em arquivos de texto simples que terminam com a extensão java. Esses arquivos são compilados pelo compilador javac que gera um arquivo com extensão class. Um arquivo de classe não contém código nativo para seu processador, em vez disso, contém bytecodes (linguagem de máquina do Java Virtual Machine - JVM). A ferramenta de execução (java) em seguida, executa a sua aplicação com uma instância da máquina virtual Java.
+
+Qual é a importância do Java na programação?
+Essa linguagem permite desenhar softwares que podem ser executados e distribuídos em diferentes plataformas (MAC, Linux, Windows etc.), sem a necessidade de modificá-los e, inclusive, sem pensar na arquitetura da máquina.
+
+Tudo isso graças aoJava Virtual Machine, uma máquina virtual que cria uma ponte entre o aplicativo e o hardware do dispositivo.
+
+ 
+Quais vantagens o Java oferece para sites e blogs?
+Algumas das vantagens oferecidas por essa linguagem de programação são:
+
+se adapta perfeitamente a todos os tipos de dispositivos (tablets, smartphones, computadores, notebooks), permitindo que você visualize qualquer conteúdo do site ou blog;
+permite desenhar praticamente qualquer elemento ou aplicativo;
+por meio de XML, possibilita criar páginas web dinâmicas e atraentes;
+permite incluir objetos de som e multimídia, além de bancos de dados e outras funcionalidades.
+Existem muitos aplicativos e páginas que não funcionam ou que possuem itens que não são executados, a menos que o Java esteja instalado.
+
+Atualmente, o Java é uma das linguagens de programação mais usadas para o desenvolvimento de sites em todo o mundo.

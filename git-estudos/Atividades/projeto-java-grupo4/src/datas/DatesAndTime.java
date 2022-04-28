@@ -7,7 +7,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.*;
 
 /**
- * @author diegocardosodev
+ * @author devops-arnaldomenezes
  * @version 1.0
  */
 public class DatesAndTime {
